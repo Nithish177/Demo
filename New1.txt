@@ -3,3 +3,5 @@ The content here is a sample to test GIT and its Repository.
 This is sample 1.
 
 This line is added to check for the change in repository.
+
+This line is added to check for the change in repository when commit is made online.
